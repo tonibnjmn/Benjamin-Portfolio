@@ -13,8 +13,8 @@ $(window).on("scroll", function () {
 $(document).ready(function () {
   //typing animation
   new Typed("#type-it", {
-    strings: ["Web Designer", "Front-End Developer"],
-    typeSpeed: 100,
+    strings: ["Web Designer", "Front-End Developer", "UI/UX Designer"],
+    typeSpeed: 150,
     loop: true,
   });
 
